@@ -1,1 +1,6 @@
-# Sassy Bootstrap Ember Starter Kit
+# Personal Starter Kit
+
+- Sass
+- Bootstrap
+- Ember
+- jQuery mousewheel plugin
