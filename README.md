@@ -1,23 +1,30 @@
-# My Personal Starter Kit #
+# Interactivity Boilerplate #
 
-### Initial Assumptions ###
+Front-end template for highly intuitive web user interfaces.
 
-This app is going to be highly interactive and usable.
+### Working Goal ###
+
+Your app will have no choice but to grow up and become a highly interactive and usable tool.
 
 ### Includes ###
 
 - ember + ember-data
 - sass
-- bootstrap
+- twitter bootstrap
 - jQuery mousewheel plugin
 
 ### Wishlist ###
 
-- Drag and drop views
-- Drag files into page
-- Touch enabled
-	- $(document).bind('touchEnd', function(event) { $(this).click(event); });?
-	- pinch instead of mousewheel?
+- Drag and drop
+- jQuery filedrop plugin
+- swim.js for keyboard control
+- Mobile
+	- http://jgestures.codeplex.com/
+- Full height and width layout
 - Font-Awesome for bootstrap icons
 	- http://fortawesome.github.com/Font-Awesome/#
 - TypeKit
+
+### General Resources ###
+
+- http://petelepage.com/webapp-codelab/
