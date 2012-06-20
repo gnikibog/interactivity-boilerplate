@@ -6,10 +6,10 @@ Front-end template for highly intuitive web user interfaces.
 
 Your app will have no choice but to grow up and become a highly interactive and usable tool.
 
-### Includes ###
+### Featuring... ###
 
 - ember + ember-data
-- sass
+- sass + compass
 - twitter bootstrap
 - jQuery mousewheel plugin
 
