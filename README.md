@@ -10,7 +10,7 @@ Your app will have no choice but to grow up and become a highly interactive and 
 
 - ember + ember-data
 - sass + compass
-- twitter bootstrap
+- twitter bootstrap (bootstrap-sass)
 - jQuery mousewheel plugin
 
 ### Wishlist ###
