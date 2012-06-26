@@ -24,6 +24,7 @@ Your app will have no choice but to grow up and become a highly interactive and 
 - Font-Awesome for bootstrap icons
 	- http://fortawesome.github.com/Font-Awesome/#
 - TypeKit
+- moment.js
 
 ### General Resources ###
 
