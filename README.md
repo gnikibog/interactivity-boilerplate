@@ -16,11 +16,11 @@ Your app will have no choice but to grow up and become a highly interactive and 
 ### Wishlist ###
 
 - Drag and drop
-- jQuery filedrop plugin
+- jQuery fileupload plugin
 - swim.js for keyboard control
 - Mobile
 	- http://jgestures.codeplex.com/
-- Full height and width layout
+- Full height and width layout?
 - Font-Awesome for bootstrap icons
 	- http://fortawesome.github.com/Font-Awesome/#
 - TypeKit
@@ -28,4 +28,4 @@ Your app will have no choice but to grow up and become a highly interactive and 
 
 ### General Resources ###
 
-- http://petelepage.com/webapp-codelab/
+- http://antjanus.com/blog/web-design-tips/user-interface-usability/customize-twitter-bootstrap-into-themes/
