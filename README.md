@@ -2,30 +2,38 @@
 
 Front-end template for highly intuitive web user interfaces.
 
-### Working Goal ###
+## Working Goal ##
 
 Your app will have no choice but to grow up and become a highly interactive and usable tool.
 
-### Featuring... ###
+## Featuring... ##
 
 - ember + ember-data
 - sass + compass
 - twitter bootstrap (bootstrap-sass)
 - jQuery mousewheel plugin
 
+
+## Notes ##
+
 ### Wishlist ###
 
 - Drag and drop
-- jQuery fileupload plugin
 - swim.js for keyboard control
 - Mobile
-	- http://jgestures.codeplex.com/
+  - http://jgestures.codeplex.com/
 - Full height and width layout?
 - Font-Awesome for bootstrap icons
-	- http://fortawesome.github.com/Font-Awesome/#
+  - http://fortawesome.github.com/Font-Awesome/#
 - TypeKit
 - moment.js
+
+### Ember events ###
+
+touchStart, touchMove, touchEnd, touchCancel, keyDown, keyUp, keyPress, mouseDown, mouseUp, contextMenu, click, doubleClick, mouseMove, focusIn, focusOut, mouseEnter, mouseLeave, submit, input, change, dragStart, drag, dragEnter, dragLeave, dragOver, drop, dragEnd
+
 
 ### General Resources ###
 
 - http://antjanus.com/blog/web-design-tips/user-interface-usability/customize-twitter-bootstrap-into-themes/
+- http://www.troyhunt.com/2012/09/10-lessons-for-uncultured-web-developers.html
