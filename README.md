@@ -16,7 +16,7 @@ Your app will have no choice but to grow up and become a highly interactive and 
 
 ## Notes ##
 
-### Wishlist ###
+### Boilerplate wishlist (i.e. other interactivity resources) ###
 
 - Drag and drop
 - swim.js for keyboard control
@@ -35,5 +35,6 @@ touchStart, touchMove, touchEnd, touchCancel, keyDown, keyUp, keyPress, mouseDow
 
 ### General Resources ###
 
+- http://subtlepatterns.com/
 - http://antjanus.com/blog/web-design-tips/user-interface-usability/customize-twitter-bootstrap-into-themes/
 - http://www.troyhunt.com/2012/09/10-lessons-for-uncultured-web-developers.html
